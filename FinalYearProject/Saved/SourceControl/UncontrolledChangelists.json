@@ -1,0 +1,14 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/FinalyearProject/FinalYearProject/Content/TokyoStylizedEnvironment/Maps/Tokyo.umap",
+				"D:/FinalyearProject/FinalYearProject/Content/TokyoStylizedEnvironment/Maps/Assets_Overview.umap",
+				"D:/FinalyearProject/FinalYearProject/Content/TokyoStylizedEnvironment/Sequence/Maglev_01.uasset"
+			]
+		}
+	]
+}
