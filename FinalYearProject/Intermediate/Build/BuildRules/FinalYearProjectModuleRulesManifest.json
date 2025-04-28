@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"D:\\FinalyearProject\\FinalYearProject\\Intermediate\\Source\\FinalYearProject.Build.cs",
+		"D:\\FinalyearProject\\FinalYearProject\\Intermediate\\Source\\FinalYearProject.Target.cs",
+		"D:\\FinalyearProject\\FinalYearProject\\Intermediate\\Source\\FinalYearProjectClient.Target.cs",
+		"D:\\FinalyearProject\\FinalYearProject\\Intermediate\\Source\\FinalYearProjectEditor.Target.cs",
+		"D:\\FinalyearProject\\FinalYearProject\\Intermediate\\Source\\FinalYearProjectServer.Target.cs"
+	],
+	"EngineVersion": "5.5.3"
+}

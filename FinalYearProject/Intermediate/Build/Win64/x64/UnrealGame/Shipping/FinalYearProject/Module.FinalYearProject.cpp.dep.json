@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\finalyearproject\\finalyearproject\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\finalyearproject\\module.finalyearproject.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\finalyearproject\\finalyearproject\\intermediate\\build\\win64\\x64\\finalyearproject\\shipping\\core\\sharedpch.core.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\finalyearproject\\finalyearproject\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\finalyearproject\\definitions.finalyearproject.h",
+            "d:\\finalyearproject\\finalyearproject\\intermediate\\source\\finalyearproject.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

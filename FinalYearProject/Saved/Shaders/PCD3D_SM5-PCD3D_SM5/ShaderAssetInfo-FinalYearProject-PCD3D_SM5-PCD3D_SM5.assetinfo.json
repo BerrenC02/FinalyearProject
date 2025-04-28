@@ -1,0 +1,909 @@
+{
+	"AssetInfoVersion": 2,
+	"ShaderCodeToAssets": [
+		{
+			"ShaderMapHash": "419C810029C0D0217C3A9B9ECD5535518C0B2C6D",
+			"Assets": [
+				"/DatasmithContent/Materials/Water/M_Water",
+				"/DatasmithContent/Materials/Water/MI_Pool_01"
+			]
+		},
+		{
+			"ShaderMapHash": "EEA19801BE1F073EE97B6C42AFAF179CC5B85114",
+			"Assets": [
+				"/Game/TokyoStylizedEnvironment/Materials/Trim_Decal01/M_DecalMasked"
+			]
+		},
+		{
+			"ShaderMapHash": "DAE70302EC4B7A60528398D33C5F2BBACF54ED26",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_ClearCoat_Mask"
+			]
+		},
+		{
+			"ShaderMapHash": "8B746B05EC42EC15F39BB6F528F4D6C66D34A8C8",
+			"Assets": [
+				"/InterchangeAssets/gltf/M_SpecularGlossiness"
+			]
+		},
+		{
+			"ShaderMapHash": "7A24A70994F98E21149D9BC0651D2CB040C6EF5F",
+			"Assets": [
+				"/MovieRenderPipeline/Materials/MovieRenderQueue_MotionVectors"
+			]
+		},
+		{
+			"ShaderMapHash": "9BE1D709D26204CC76E0A819FEF68326CE7A038B",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Opaque_OneSided"
+			]
+		},
+		{
+			"ShaderMapHash": "D0688F0D32DEDBC1BC75E19154E46750EB9D548A",
+			"Assets": [
+				"/DeformerGraph/Deformers/DG_LinearBlendSkin_Morph_Cloth_RecomputeNormals"
+			]
+		},
+		{
+			"ShaderMapHash": "F7A2920D6C245047A20D02BB9D7E80290F6677FE",
+			"Assets": [
+				"/Game/TokyoStylizedEnvironment/Textures/Buildings/WorldAlignedTextureTiles1",
+				"/Game/TokyoStylizedEnvironment/Textures/Buildings/WorldAlignedTextureTiles10",
+				"/Game/TokyoStylizedEnvironment/Textures/Buildings/WorldAlignedTextureTiles11",
+				"/Game/TokyoStylizedEnvironment/Textures/Buildings/WorldAlignedTextureTiles2",
+				"/Game/TokyoStylizedEnvironment/Textures/Buildings/WorldAlignedTextureTiles3",
+				"/Game/TokyoStylizedEnvironment/Textures/Buildings/WorldAlignedTextureTiles4",
+				"/Game/TokyoStylizedEnvironment/Textures/Buildings/WorldAlignedTextureTiles5",
+				"/Game/TokyoStylizedEnvironment/Textures/Buildings/WorldAlignedTextureTiles6",
+				"/Game/TokyoStylizedEnvironment/Textures/Buildings/WorldAlignedTextureTiles7",
+				"/Game/TokyoStylizedEnvironment/Textures/Buildings/WorldAlignedTextureTiles8",
+				"/Game/TokyoStylizedEnvironment/Textures/Buildings/WorldAlignedTextureTiles9"
+			]
+		},
+		{
+			"ShaderMapHash": "FD660B0F2EF998219B9377F9CB10AD510724F2BB",
+			"Assets": [
+				"/Game/TokyoStylizedEnvironment/Materials/Foliage_Tree01/M_Leaves01"
+			]
+		},
+		{
+			"ShaderMapHash": "AC7D650F2FBC07A04DEE3F77884614976B17CAFB",
+			"Assets": [
+				"/Engine/EngineMaterials/FlattenMaterial_VT"
+			]
+		},
+		{
+			"ShaderMapHash": "EEAD3B104A9473585B8F3E1A9B09D465BB51FAFA",
+			"Assets": [
+				"/Engine/EditorMaterials/PhAT_UnselectedMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "CB34821108973AF4A83FEC0B177ACA6FD577EE1E",
+			"Assets": [
+				"/Game/BPs/TVMats/M_TV1"
+			]
+		},
+		{
+			"ShaderMapHash": "5468C911504528DCD02EE9A919D747514A48AE71",
+			"Assets": [
+				"/Game/DreamscapeSeries/DreamscapeTower/Materials/Foliage/MI_Vines",
+				"/Game/DreamscapeSeries/SharedResources/Materials/Foliage/M_Plants_Master"
+			]
+		},
+		{
+			"ShaderMapHash": "F1AD3F12CF2BAE7B41BA1274061F47DEE966FE9E",
+			"Assets": [
+				"/Game/BPs/TVMats/M_TV4"
+			]
+		},
+		{
+			"ShaderMapHash": "E3F642125A067F547D973ADD81F9AEF426F4449F",
+			"Assets": [
+				"/AudioWidgets/AudioMaterialSlate/M_AudioMaterialKnob"
+			]
+		},
+		{
+			"ShaderMapHash": "ABBF0013827FE5E160214C101AF64ED6D796B354",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_Default_Mask"
+			]
+		},
+		{
+			"ShaderMapHash": "1CE53415EE8297DFB099FDB1F0A6F2F856203184",
+			"Assets": [
+				"/Pedestrian_System/Demo_Content/PlayerCharacter/Animations/Mannequin/Character/Materials/M_Body"
+			]
+		},
+		{
+			"ShaderMapHash": "9926F215A9A14368D8DE052F383CE59F4A35E781",
+			"Assets": [
+				"/Game/Asian_Village/materials/trees_materials/M_foliage"
+			]
+		},
+		{
+			"ShaderMapHash": "54D71517F1C018C8A83D0A4115261C390AAF12C8",
+			"Assets": [
+				"/Engine/EngineMaterials/FlattenMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "DB759217FFD72F64198CC6C14C5DFAEE5C0210F7",
+			"Assets": [
+				"/Engine/EditorMaterials/Dataflow/DataflowTwoSidedVertexMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "9CDADF17E59F837132097FE43CFB96A5F3DA0355",
+			"Assets": [
+				"/InterchangeAssets/gltf/M_ClearCoat"
+			]
+		},
+		{
+			"ShaderMapHash": "277E281BDEB026B8483E3C0B0D0571CF58310EC6",
+			"Assets": [
+				"/HDRIBackdrop/Materials/HDRI_Projection_Floor",
+				"/HDRIBackdrop/Materials/MI_HDRI_Floor"
+			]
+		},
+		{
+			"ShaderMapHash": "3878161EA4485439A1ACC2C6E1C9B338AB53D7F7",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_ClearCoat_Blend"
+			]
+		},
+		{
+			"ShaderMapHash": "E2DA3020BCFB583D215731D5EF33A42A7C39DB08",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_SpecularGlossiness_Mask"
+			]
+		},
+		{
+			"ShaderMapHash": "8BE05620759DAF6A76257F146953724F295F51F6",
+			"Assets": [
+				"/Engine/EngineMaterials/FlattenMaterial_WS_Normal_VT"
+			]
+		},
+		{
+			"ShaderMapHash": "6171A020D312DFB91FD98C90F1EF992D5866D568",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_Sheen_Opaque_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "646D7C24A04CED1EDFE90950A2F6607E8984052D",
+			"Assets": [
+				"/AudioWidgets/AudioMaterialSlate/M_AudioMaterialEnvelope_ADSR"
+			]
+		},
+		{
+			"ShaderMapHash": "7E689527BB5694AF35E8F4FAB32FA8C4A0C7F004",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_Unlit_Opaque_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "E6112928AEF2BC310ABDF8647F2A30F68137CA3B",
+			"Assets": [
+				"/Game/Asian_Village/materials/building_materials/base_materials/M_concrete"
+			]
+		},
+		{
+			"ShaderMapHash": "C978B8289A41468BD9AF503D54FAB4660B8F2363",
+			"Assets": [
+				"/Game/TokyoStylizedEnvironment/Materials/Tile_Glass/M_Glass_Opaque"
+			]
+		},
+		{
+			"ShaderMapHash": "18CBF52980BF7B176815390B3E7AE405BEA30A00",
+			"Assets": [
+				"/Game/LevelPrototyping/Materials/M_PrototypeGrid"
+			]
+		},
+		{
+			"ShaderMapHash": "E458052A4825FE147D2AD2813C7DFF1D47DB15AE",
+			"Assets": [
+				"/Game/TokyoStylizedEnvironment/Materials/Trim_Window01/M_Window01",
+				"/Game/TokyoStylizedEnvironment/Materials/Trim_Window01/M_Window04"
+			]
+		},
+		{
+			"ShaderMapHash": "AF24772BF8ABD1961B3C475E68CA401C82C9601C",
+			"Assets": [
+				"/Game/TokyoStylizedEnvironment/Materials/Foliage_Tree_Sakura/M_Sakura_Ground_Decal"
+			]
+		},
+		{
+			"ShaderMapHash": "B416722E60EE185676F0A7FB75A564C615A33ED6",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultPostProcessMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "DD8DA330B20494D5A922DFF110E444D946E2F044",
+			"Assets": [
+				"/Game/TokyoStylizedEnvironment/Materials/Emissive_Light/M_Emissive"
+			]
+		},
+		{
+			"ShaderMapHash": "FD75D630C9E9A127FC1EF6A90496ECEC184D7316",
+			"Assets": [
+				"/Game/TokyoStylizedEnvironment/Materials/Trim_Awning/M_Awning"
+			]
+		},
+		{
+			"ShaderMapHash": "478C343167FC3384D4A0D0639E9F2BA0B1B623F9",
+			"Assets": [
+				"/Game/AssetsvilleTown/Materials/MasterMaterials/M_AlphaTest"
+			]
+		},
+		{
+			"ShaderMapHash": "D9EF9F34031472DA35B9FABE051BA223A9F228D5",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Masked"
+			]
+		},
+		{
+			"ShaderMapHash": "34A9CC34D0817CF7A6551ABC84F97DDA7C20C8B2",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_Sheen_Mask_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "34081B3595792A4121B61EC1224890964BC2ED1C",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_SpecularGlossiness_Blend_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "9F2C053A64D5395B2AD3D7CA07CC250E6C1E403F",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/M_VolumeRenderSphereTracePP"
+			]
+		},
+		{
+			"ShaderMapHash": "FF322E3CBFD3056222117872568B82AF915AA516",
+			"Assets": [
+				"/Game/TokyoStylizedEnvironment/Textures/WorldAligned/WorldAlignedTextureTiles"
+			]
+		},
+		{
+			"ShaderMapHash": "BD4F113E8DCE7E1E1B84FC96031C31FF7A6796BE",
+			"Assets": [
+				"/Engine/EditorMaterials/Camera/CineMat"
+			]
+		},
+		{
+			"ShaderMapHash": "C993463F4EBAED89FDD4BF0FB888BF7434019EEE",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_SpecularGlossiness_Opaque_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "9AACCD42FD28B73FFAD733ED7CACCED568E53D1E",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_Default_Blend"
+			]
+		},
+		{
+			"ShaderMapHash": "1335E54304D849A88C10F9B50935D832DA895592",
+			"Assets": [
+				"/SpeedTreeImporter/SpeedTree9/SpeedTreeBillboardMaster"
+			]
+		},
+		{
+			"ShaderMapHash": "819FA34B31ED11ADA57ED8B5BDC7E867AF2A8BE9",
+			"Assets": [
+				"/Game/TokyoStylizedEnvironment/Materials/Tile_Glass/M_Glass"
+			]
+		},
+		{
+			"ShaderMapHash": "AE361D4C1ECF114779A9784DE901721DA9F3E458",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_SpecularGlossiness_Blend"
+			]
+		},
+		{
+			"ShaderMapHash": "0F85AC4FDAB44DA20E54A4F9501B8B9E89F50CC5",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/DebugMeshMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "3335EF50D3D9460AAB5D2D01CDF062DF81024F01",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_ClearCoat_Blend_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "DEBB31517A42A33ED638A0A889CDCA06D1A6AFB0",
+			"Assets": [
+				"/ControlRig/M_Manip"
+			]
+		},
+		{
+			"ShaderMapHash": "79D0A054C2452B8B978BAE1D7FD1F48C1297E452",
+			"Assets": [
+				"/ControlRig/Controls/ControlRigGizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "2F066C567E182B147360D6C4384B0E3D31B52247",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_Sheen_Mask"
+			]
+		},
+		{
+			"ShaderMapHash": "BD3876562AD62D8382B15929283308C8D49FAFF6",
+			"Assets": [
+				"/Pedestrian_System/Demo_Content/Materials/CharacterMaterials/M_CharacterParent"
+			]
+		},
+		{
+			"ShaderMapHash": "A11B76579C744A6BDD45E032BA2548B2C8EB6E02",
+			"Assets": [
+				"/HairStrands/Materials/HairDebugMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "BF6FB95BED278BC7041B4D73DC375FDEEA18B1B6",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Masked_OneSided"
+			]
+		},
+		{
+			"ShaderMapHash": "5F77185C664BA57FAE13A0A83C19F160CE417FCD",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/TransformGizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "0232115D06C45A549313E2EF2E3B0497117DAE5C",
+			"Assets": [
+				"/Paper2D/DefaultSpriteMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "4BD7DF619CBD35EAA6060A59192161478BB69293",
+			"Assets": [
+				"/Game/Asian_Village/materials/plants_materials/M_plants"
+			]
+		},
+		{
+			"ShaderMapHash": "0F2B8C63D45EA28E0D232458ECACAD9774C9B677",
+			"Assets": [
+				"/Game/Asian_Village/materials/building_materials/base_materials/M_tiles_WPO"
+			]
+		},
+		{
+			"ShaderMapHash": "C8DDDC63E69BCEE347B0868911B8C74798BC30C0",
+			"Assets": [
+				"/MovieRenderPipeline/Materials/MovieRenderQueue_WorldDepth"
+			]
+		},
+		{
+			"ShaderMapHash": "7612DF6656E409B8991C16CB08A98AAA4CA96477",
+			"Assets": [
+				"/HDRIBackdrop/Materials/HDRI_Projection_Sky"
+			]
+		},
+		{
+			"ShaderMapHash": "1023E7677A6F7FA68928D25562D979441AF6D0D6",
+			"Assets": [
+				"/Game/TokyoStylizedEnvironment/Materials/Master_Materials/M_BasicMat"
+			]
+		},
+		{
+			"ShaderMapHash": "A6DA32696C6D49BB6FADC4685C95908F9D91BA8A",
+			"Assets": [
+				"/ControlRig/Controls/ControlRigXRayMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "D926566979F8A660827B0923771A68B945B11A30",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/M_SimpleUnlitTranslucent"
+			]
+		},
+		{
+			"ShaderMapHash": "7716D06C31B9570B4B0B552BD2AF3F6D670B0253",
+			"Assets": [
+				"/Game/TokyoStylizedEnvironment/Materials/Trim_Street_Trash/M_StreetTrash"
+			]
+		},
+		{
+			"ShaderMapHash": "BB71D26C46292D491704B393ED54F2757FA30708",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultDeferredDecalMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "C6856D6EB50E5C8D3D457345A2B97BA446926485",
+			"Assets": [
+				"/Game/TokyoStylizedEnvironment/Materials/Tile_Glass/M_Glass_Opaque1"
+			]
+		},
+		{
+			"ShaderMapHash": "576CC17172B95A8447346B1C7597CBEB1998BC7E",
+			"Assets": [
+				"/Game/Asian_Village/materials/trees_materials/M_bark"
+			]
+		},
+		{
+			"ShaderMapHash": "6F9E84776335304865C6C71E576BAB828C93D32A",
+			"Assets": [
+				"/HairStrands/Materials/HairCardsDefaultMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "85EB6C7AE552EAD0FE9A6493185D5683A7FB837F",
+			"Assets": [
+				"/Engine/VREditor/SnapGrid/SnapGridMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "82618B7B1A4F661BB746654CBDE362B1A200C8C1",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_Sheen_Blend"
+			]
+		},
+		{
+			"ShaderMapHash": "3AF4947FFC83CC99827C7F67E7D8A0FE4683AE08",
+			"Assets": [
+				"/Engine/BasicShapes/BasicShapeMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "B13B068039EF4938F35E551E9025BCB3A1D9CE66",
+			"Assets": [
+				"/DeformerGraph/Deformers/DG_LinearBlendSkin_Morph_Cloth_RecomputeNormals"
+			]
+		},
+		{
+			"ShaderMapHash": "DD698681605476A37CE351CD30936A34ABCF55ED",
+			"Assets": [
+				"/Engine/EngineMaterials/WorldGridMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "00CCF6815255F7B241D9563F76E0BEC4A1B091A2",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_Default_Mask_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "C289548211AED7E844F5FE7070BC3B11CA1A995F",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "9D41AB82C05735C9E56E3F9BD934A21F2752EC9B",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/Xray"
+			]
+		},
+		{
+			"ShaderMapHash": "2EDB47833D01F4034F9B98B3D9FF7A4CD528CE12",
+			"Assets": [
+				"/HDRIBackdrop/Materials/MI_HDRI_Sky"
+			]
+		},
+		{
+			"ShaderMapHash": "768A2D842882F2D91D1BECD73F62E3F44656C618",
+			"Assets": [
+				"/Game/Asian_Village/materials/props_materials/M_lantern"
+			]
+		},
+		{
+			"ShaderMapHash": "EAF51F86A62169162DD88E25218CE284D89C2DF4",
+			"Assets": [
+				"/Game/BPs/TVMats/M_TV6"
+			]
+		},
+		{
+			"ShaderMapHash": "27B32A86C56D9BC65A485A80B83B78843D26A5C9",
+			"Assets": [
+				"/AudioWidgets/AudioMaterialSlate/M_AudioMaterialRoundedSlider"
+			]
+		},
+		{
+			"ShaderMapHash": "5B791F8B49276ACC29C7F627C67A3D9BE83B7649",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough",
+				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent_OneSided"
+			]
+		},
+		{
+			"ShaderMapHash": "6E399A8B04441069250858BDBA2AE38E4134839F",
+			"Assets": [
+				"/SpeedTreeImporter/SpeedTree9/SpeedTreeMaster"
+			]
+		},
+		{
+			"ShaderMapHash": "9C69178E89FA456B3EB4E95C30A83CA30A3208F8",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/Main"
+			]
+		},
+		{
+			"ShaderMapHash": "9475D090D08437045BFA575DAEC9AD44539F89FF",
+			"Assets": [
+				"/Game/BPs/TVMats/M_TV5"
+			]
+		},
+		{
+			"ShaderMapHash": "D761A29650185FC3DD14DBB457C9A7DC5028C1F3",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_SpecularGlossiness_Mask_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "70BE1B97F1045E0BC13E2B5CEA9FFFAFCEFFB096",
+			"Assets": [
+				"/InterchangeAssets/gltf/M_Default"
+			]
+		},
+		{
+			"ShaderMapHash": "9EE4B39F6B4AE11EB322E28CFFEFB8BAF967054F",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "5DA769A58262F5F040D144DA8146C10385F1AEB8",
+			"Assets": [
+				"/Game/TokyoStylizedEnvironment/Textures/WorldAligned/WorldAlignedTextureRoad"
+			]
+		},
+		{
+			"ShaderMapHash": "3C6447A69EFFA4AEC172B48B3B6994710D7F9A68",
+			"Assets": [
+				"/Engine/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud"
+			]
+		},
+		{
+			"ShaderMapHash": "B9E685A68A1E204AA2F5D8E0DD4A3ECE13C5C56C",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_ClearCoat_Opaque_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "088A8EA8CF9F232810E6C0B4CAE006EB5469AA93",
+			"Assets": [
+				"/Game/Asian_Village/materials/building_materials/M_wooden_fence"
+			]
+		},
+		{
+			"ShaderMapHash": "D5BA6DAA70625DE0B173C75E990551535AE8B1F5",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Opaque"
+			]
+		},
+		{
+			"ShaderMapHash": "0E50C1AB6A71E360AF916D3BE4E63B62C3F4CDDF",
+			"Assets": [
+				"/Engine/EngineMaterials/GizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "9220ADAC5EBCC7452DB04881C15F4DF58A25927D",
+			"Assets": [
+				"/Engine/EngineMaterials/RemoveSurfaceMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "30F49BAF5733DB34FC3E029E2BBBB4E362A61346",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_Unlit_Blend_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "664333B00218523486CE518C0E45C1D894DD01AC",
+			"Assets": [
+				"/Game/TokyoStylizedEnvironment/Materials/Trim_Decal01/M_Decal01"
+			]
+		},
+		{
+			"ShaderMapHash": "365BB3B0A645E600BACAF02AE7B03F936F78C78D",
+			"Assets": [
+				"/Engine/EngineMaterials/EmissiveMeshMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "C70D09B126F304BFAAC62D1EE8D763DF9265DA81",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_Default_Blend_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "53EBACB13ED651ED2BE1891DE13F6CD09E95AC7C",
+			"Assets": [
+				"/Game/BPs/TVMats/M_TV7"
+			]
+		},
+		{
+			"ShaderMapHash": "85CB43B2F3F5D07D89E9C5015EF48285039EF8A4",
+			"Assets": [
+				"/Engine/EditorLandscapeResources/SplineEditorMeshMat"
+			]
+		},
+		{
+			"ShaderMapHash": "E4DFABB3AF9FCA2EBFF9AAD2388DC48B2ECA856E",
+			"Assets": [
+				"/Engine/EngineMaterials/PhAT_JointLimitMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "86120AB5A0915FBD72A41BFB8BD3710FAD7C72D4",
+			"Assets": [
+				"/InterchangeAssets/gltf/M_Sheen"
+			]
+		},
+		{
+			"ShaderMapHash": "6EFB8AB7655E4A6171E799EE30BD1CACD0F1E4D4",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/DebugEditorMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "8B3477B89EB2DEF2919D4B74D88ECFDB596C7EF3",
+			"Assets": [
+				"/Game/TokyoStylizedEnvironment/Materials/Tile_TreeTrunk/M_TreeTrunk"
+			]
+		},
+		{
+			"ShaderMapHash": "6A35CABBA849DE189E57EDA310448EC124D4EB8D",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_Unlit_Mask",
+				"/InterchangeAssets/gltf/MaterialInstances/MI_Unlit_Mask_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "B21F09BEC571449B1783DE0E7750D59B40F8D692",
+			"Assets": [
+				"/DeformerGraph/Deformers/DG_LinearBlendSkin_Morph_Cloth"
+			]
+		},
+		{
+			"ShaderMapHash": "94C3CEBEDC743F689543DAFD16163A5CBDC9826F",
+			"Assets": [
+				"/Game/Realistic_Starter_VFX_Pack_Vol2/Materials/M_Smoke_Ground_C"
+			]
+		},
+		{
+			"ShaderMapHash": "F28810BF5221B1E0B02A646B8000C6FAAF140433",
+			"Assets": [
+				"/Game/AssetsvilleTown/Materials/MasterMaterials/M_BaseColorPalette"
+			]
+		},
+		{
+			"ShaderMapHash": "3867CDBFB1ACD34A2DBF8E7A6706F5869A83E52B",
+			"Assets": [
+				"/Game/DreamscapeSeries/SharedResources/Materials/Effects/M_Firefly"
+			]
+		},
+		{
+			"ShaderMapHash": "E35E17C0864B096B0B066497915892828020D306",
+			"Assets": [
+				"/Game/TokyoStylizedEnvironment/Textures/WorldAligned/WorldAlignedTextureCurb"
+			]
+		},
+		{
+			"ShaderMapHash": "D7CC3BC0790FE887512427AE40D1B1417B9EA9B5",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_Unlit_Blend"
+			]
+		},
+		{
+			"ShaderMapHash": "60D466C199C5B8D4278263977AD377FF93C4905C",
+			"Assets": [
+				"/MeshModelingToolset/Materials/M_DynamicMeshComponentVtxColor"
+			]
+		},
+		{
+			"ShaderMapHash": "DC0DB0C11CD24F488CBDAEA108C9BD80B222527C",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultTextMaterialOpaque"
+			]
+		},
+		{
+			"ShaderMapHash": "8102FCC233297D248833F29FE49D8773634AD5CA",
+			"Assets": [
+				"/Game/Asian_Village/materials/building_materials/M_building_concrete_WPO"
+			]
+		},
+		{
+			"ShaderMapHash": "D5FD71C37CBAAA7655EAD1F67C256D9F2E14F29A",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_Default_Opaque_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "31A1D2C4EED320C5D5E053ACACF9AA0306AB7AC1",
+			"Assets": [
+				"/Engine/EngineMaterials/NaniteHiddenSectionMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "B28F67C685F0C40FD836F37D9940A30D44477CD5",
+			"Assets": [
+				"/Game/Asian_Village/materials/building_materials/base_materials/M_wicker_wallpaper"
+			]
+		},
+		{
+			"ShaderMapHash": "D457C5C631A20D19936BC0ACFD13D97DAC4F17DC",
+			"Assets": [
+				"/AudioWidgets/AudioMaterialSlate/M_AudioMaterialMeter"
+			]
+		},
+		{
+			"ShaderMapHash": "2A63F6C6CD4EF6474F977C37B836BA66E358F192",
+			"Assets": [
+				"/InterchangeAssets/gltf/M_Transmission"
+			]
+		},
+		{
+			"ShaderMapHash": "8D8DD1C7F89433C377BD9C3EBE1F8B5FBB030A82",
+			"Assets": [
+				"/Engine/EditorMaterials/Thumbnails/SkySphereMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "C4444FD39D577F4CED732151B0C28ABD8C47B5A9",
+			"Assets": [
+				"/MovieRenderPipeline/Materials/MoviePipeline_StencilCutout"
+			]
+		},
+		{
+			"ShaderMapHash": "31397ED3A3CC0769E0D7E99D044FCB2C2D0EE96E",
+			"Assets": [
+				"/Game/BPs/TVMats/M_TV3"
+			]
+		},
+		{
+			"ShaderMapHash": "EC1354D7B64CD920975E6D5E490309A42F1D51DC",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultLightFunctionMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "C3A2F9D73125A9E48F0C883C414AA98782DB7321",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent"
+			]
+		},
+		{
+			"ShaderMapHash": "690F0CDD5CFC188E4B2BCCC0D4E0B6BA72625CE4",
+			"Assets": [
+				"/Game/TokyoStylizedEnvironment/Materials/Master_Materials/M_TilingMat",
+				"/Game/TokyoStylizedEnvironment/Materials/Tile_Panel_Plain/MI_Panel_Basic_White",
+				"/Game/TokyoStylizedEnvironment/Materials/Tile_Tiles_Stack/MI_TileStack_White"
+			]
+		},
+		{
+			"ShaderMapHash": "36D179E38987FE35798F35F8BB854401689D85C5",
+			"Assets": [
+				"/Game/BPs/TrafficLightMats/ML_TrafficLight_Lit_Amber",
+				"/Game/BPs/TrafficLightMats/ML_TrafficLight_Lit_Green",
+				"/Game/BPs/TrafficLightMats/ML_TrafficLight_Lit_Red"
+			]
+		},
+		{
+			"ShaderMapHash": "4B8FB7E3B1FDC19C5F53AFE6EC43A802171778B3",
+			"Assets": [
+				"/Game/Asian_Village/materials/building_materials/M_building_wood"
+			]
+		},
+		{
+			"ShaderMapHash": "134443E99E4225FBDA3206C8AEA70CA4590B02BA",
+			"Assets": [
+				"/Engine/EngineMaterials/PPM_DefaultCalibrationColor"
+			]
+		},
+		{
+			"ShaderMapHash": "892FC3E9D6DD4D8349E617582686AC50EC522859",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_ClearCoat_Mask_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "6B5B2DECE1E9B817E4FC67D2E1F454F0BDE88A50",
+			"Assets": [
+				"/Paper2D/OpaqueUnlitSpriteMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "726A88EF2B1AA3CA465C213B19C00B47D52101D2",
+			"Assets": [
+				"/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale"
+			]
+		},
+		{
+			"ShaderMapHash": "AE1B53F0254C109096B74A9D53C727E5AA3E3CDB",
+			"Assets": [
+				"/MovieRenderPipeline/Blueprints/M_MoviePipelineRenderPreview"
+			]
+		},
+		{
+			"ShaderMapHash": "9DE7AAF0F81E982057FD4E5C5A59F505E9F06943",
+			"Assets": [
+				"/Game/TokyoStylizedEnvironment/Textures/WorldAligned/WorldAlignedTextureDirt",
+				"/Game/TokyoStylizedEnvironment/Textures/WorldAligned/WorldAlignedTextureGrass"
+			]
+		},
+		{
+			"ShaderMapHash": "670957F1EB73028C4DD6AF12D71F5D8669963D6B",
+			"Assets": [
+				"/Game/LevelPrototyping/Materials/MI_PrototypeGrid_Gray"
+			]
+		},
+		{
+			"ShaderMapHash": "A44799F1257FDC62D53039D098BC3A4B3A7BEADB",
+			"Assets": [
+				"/Engine/EditorMaterials/PreviewShadowIndicatorMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "B2A0FBF3873F7358E963C5DFA33DDA55999DC2C5",
+			"Assets": [
+				"/Game/AssetsvilleTown/Materials/MasterMaterials/M_BaseColorPalette1"
+			]
+		},
+		{
+			"ShaderMapHash": "6C769FF51965939BB9F06FDD19BAD9C9B6EAE7C6",
+			"Assets": [
+				"/Engine/EditorMaterials/PhAT_NoCollisionMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "0832FFF6BCD2C53502C668EE2EA81CF786E3734E",
+			"Assets": [
+				"/AudioWidgets/AudioMaterialSlate/M_AudioMaterialToggleButton"
+			]
+		},
+		{
+			"ShaderMapHash": "05C1B8F998086E49835C179E927C767E8BF7D626",
+			"Assets": [
+				"/Engine/EngineMaterials/M_InvalidLightmapSettings"
+			]
+		},
+		{
+			"ShaderMapHash": "FBF7ABFBBB39E89B2E9F6D07C4CC0C82842CC4E3",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_Sheen_Blend_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "B6BF17FCDF20A29EE6C372E9FDC479FDD0030A8A",
+			"Assets": [
+				"/Game/BPs/TVMats/M_TV2"
+			]
+		},
+		{
+			"ShaderMapHash": "8814BEFCA7D7C447F558F097189C578E4D1B0847",
+			"Assets": [
+				"/Engine/EditorMaterials/Dataflow/DataflowVertexMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "E4CB38FD76796D926D3F71D31789AF9D8EA1763F",
+			"Assets": [
+				"/InterchangeAssets/gltf/M_Unlit"
+			]
+		},
+		{
+			"ShaderMapHash": "4E44E8FFAE389021FDA25E6C48C8275C104D8787",
+			"Assets": [
+				"/HairStrands/Materials/HairDefaultMaterial",
+				"/HairStrands/Materials/HairMeshesDefaultMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "EBA9FAFF75642717AAF22DB518C4F716C178F9B7",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_Transmission_DS"
+			]
+		}
+	]
+}
