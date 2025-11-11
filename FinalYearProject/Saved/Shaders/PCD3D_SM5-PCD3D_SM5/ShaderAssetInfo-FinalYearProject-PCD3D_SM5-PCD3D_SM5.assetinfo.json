@@ -4,8 +4,7 @@
 		{
 			"ShaderMapHash": "419C810029C0D0217C3A9B9ECD5535518C0B2C6D",
 			"Assets": [
-				"/DatasmithContent/Materials/Water/M_Water",
-				"/DatasmithContent/Materials/Water/MI_Pool_01"
+				"/DatasmithContent/Materials/Water/M_Water"
 			]
 		},
 		{
@@ -466,6 +465,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "69EBA981DA0D9682CE18842B2A79B93135F67E83",
+			"Assets": [
+				"/Game/Poster/Poster"
+			]
+		},
+		{
 			"ShaderMapHash": "00CCF6815255F7B241D9563F76E0BEC4A1B091A2",
 			"Assets": [
 				"/InterchangeAssets/gltf/MaterialInstances/MI_Default_Mask_DS"
@@ -510,8 +515,7 @@
 		{
 			"ShaderMapHash": "5B791F8B49276ACC29C7F627C67A3D9BE83B7649",
 			"Assets": [
-				"/Engine/EngineMaterials/Widget3DPassThrough",
-				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent_OneSided"
+				"/Engine/EngineMaterials/Widget3DPassThrough"
 			]
 		},
 		{
@@ -542,6 +546,15 @@
 			"ShaderMapHash": "70BE1B97F1045E0BC13E2B5CEA9FFFAFCEFFB096",
 			"Assets": [
 				"/InterchangeAssets/gltf/M_Default"
+			]
+		},
+		{
+			"ShaderMapHash": "9719929E42A0B957F6EBAC66F82CB2982A1E8FC6",
+			"Assets": [
+				"/Game/Poster/Grafitti1",
+				"/Game/Poster/Grafitti2",
+				"/Game/Poster/Grafitti3",
+				"/Game/Poster/Grafitti4"
 			]
 		},
 		{
@@ -776,9 +789,7 @@
 		{
 			"ShaderMapHash": "690F0CDD5CFC188E4B2BCCC0D4E0B6BA72625CE4",
 			"Assets": [
-				"/Game/TokyoStylizedEnvironment/Materials/Master_Materials/M_TilingMat",
-				"/Game/TokyoStylizedEnvironment/Materials/Tile_Panel_Plain/MI_Panel_Basic_White",
-				"/Game/TokyoStylizedEnvironment/Materials/Tile_Tiles_Stack/MI_TileStack_White"
+				"/Game/TokyoStylizedEnvironment/Materials/Master_Materials/M_TilingMat"
 			]
 		},
 		{
